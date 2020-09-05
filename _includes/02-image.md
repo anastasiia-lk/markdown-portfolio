@@ -1,2 +1,2 @@
-[text](https://example.com)
+[hello](https://yandex.ru)
 
